@@ -3,6 +3,8 @@ title: "7. Update data with mutations"
 description: Learn how to update data with the Mutation component
 ---
 
+Time to accomplish: _12 Minutes_
+
 With Apollo Client, updating data from a graph API is as simple as calling a function. Additionally, the Apollo Client cache is smart enough to automatically update in most cases. In this section, we'll learn how to use the `Mutation` component from `react-apollo` to login a user.
 
 <h2 id="query-component">What is a Mutation component?</h2>
